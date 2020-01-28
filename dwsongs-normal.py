@@ -1660,7 +1660,7 @@ try:
 		"""
 	)
 
-	ans = input("Choose: ")
+	ans = 1
 
 	if ans == "1" or ans == "2":
 		sets.dispatcher.add_handler(
